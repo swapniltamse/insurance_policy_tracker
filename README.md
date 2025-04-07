@@ -1,3 +1,14 @@
+# NOTE:
+This is a MANUS Agent generated code with minimal intervention.
+This is a demo of tech and business proposals to be made as a proof of concept.
+
+![image](https://github.com/user-attachments/assets/f88b77e8-6e95-450d-8afb-7fbdb31b7d49)
+
+Deployed Website:
+https://ptekdzik.manus.space/
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 # Insurance Policy Tracker - README
 
 ## Project Overview
